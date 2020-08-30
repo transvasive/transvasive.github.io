@@ -4,8 +4,6 @@ title: Introduction to Behavioral Information Security Presentation
 author: jabenninghoff
 comments: false
 ---
-**Copyright © 2010 John A Benninghoff. All rights reserved.**
-
 I recently gave an early version of my presentation on Behavioral
 Information Security to a local security group here in Minneapolis. By
 request, I'm publishing a PDF version of those slides here. Although I
