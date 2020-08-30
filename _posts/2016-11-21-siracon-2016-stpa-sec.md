@@ -2,7 +2,7 @@
 layout: post
 title: SIRAcon 2016 – STPA-Sec&#58; stealing from safety engineering to improve threat modeling
 author: jabenninghoff
-comments: true
+comments: false
 ---
 Last month I gave a talk at [SIRAcon 2016](http://siracon2016.busyconf.com/schedule), *"STPA-Sec: stealing from safety engineering to improve threat modeling."* The talk was well received, and I want to thank both the organizers and attendees for an excellent conference.
 

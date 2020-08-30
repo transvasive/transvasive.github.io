@@ -2,7 +2,7 @@
 layout: post
 title: CyberSecureGov 2016&#58; Practical Identity and Access Management
 author: jabenninghoff
-comments: true
+comments: false
 ---
 Earlier this year, I spoke at [CyberSecureGov
 2016](http://cybersecuregov.isc2.org/), after my proposed talk based on
