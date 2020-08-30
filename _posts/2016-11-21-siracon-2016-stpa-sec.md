@@ -4,7 +4,6 @@ title: SIRAcon 2016 – STPA-Sec&#58; stealing from safety engineering to improv
 author: jabenninghoff
 comments: true
 ---
-
 Last month I gave a talk at [SIRAcon 2016](http://siracon2016.busyconf.com/schedule), *"STPA-Sec: stealing from safety engineering to improve threat modeling."* The talk was well received, and I want to thank both the organizers and attendees for an excellent conference.
 
 The talk was the result of my attendance at the [2016 STAMP workshop](http://psas.scripts.mit.edu/home/2016-stamp-workshop/). STAMP includes a couple of frameworks that are used within the safety profession, both for hazard analysis (STPA) and accident analysis (CAST). There are a handful of security researchers involved with the group (mainly from MIT Lincoln Labs) and they have developed a version that can be applied to security, STPA-Sec.
