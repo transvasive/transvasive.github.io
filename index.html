@@ -1,0 +1,42 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+    {% if post.author %}
+      {% assign author = site.data.members[post.author] %}
+        &middot; <a href="https://github.com/{{ author.github }}">@{{ author.github }}</a>
+      {% endif %}
+    </span>
+
+    {{ post.content }}
+
+    {% if post.comments %}
+    <a class="comment" href="{{ post.url | relative_url }}">comment</a>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
