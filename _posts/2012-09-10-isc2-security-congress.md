@@ -4,8 +4,6 @@ title: ISC2 Security Congress Talk and SIRACon
 author: jabenninghoff
 comments: false
 ---
-#### Copyright © 2012 Transvasive Security. All rights reserved.
-
 Today I spoke at the [(ISC)2 Security Congress in
 Philadelphia](https://web.archive.org/web/20121203213221/https://www.isc2.org/Conferences.aspx), which is
 co-located with the [ASIS International
