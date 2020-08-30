@@ -1,0 +1,57 @@
+# Setup
+title:               Transvasive Security
+tagline:             the human factor
+url:                 https://transvasive.github.io
+paginate:            3
+baseurl:             ""
+permalink:           pretty
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+# Optimize Jekyll
+exclude:
+  - .bundle
+  - .editorconfig
+  - .git
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - bootstrap.sh
+  - poole-LICENSE.md
+  - poole-sass.patch
+  - tmp
+  - vendor
+
+sass:
+  sass_dir:          _sass
+  style:             :compressed
+
+# Links to include in the masthead.
+masthead_links:
+  About:             '/about/'
+  Blog:              '/'
+  Archive:           '/archive/'
+
+# Disqus settings
+#disqus_url:          information-safety
+
+# Options
+
+# Uncomment to enable mobile icons
+#mobile-icons:        true
+
+# Replace this value and uncomment to enable Google Analytics tracking
+#google_analytics:    UA-70082859-1
+
+# poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
+# Custom vars
+#version:             3.0.0

@@ -1,0 +1,30 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.title }}</title>
+ <link href="{{ '/atom.xml' | absolute_url }}" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}{{ site.baseurl }}/</id>
+
+ {% for post in site.posts %}
+ <entry>
+   <title type="html">{{ post.title | xml_escape }}</title>
+   <link href="{{ site.url }}{{ post.url | relative_url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.id }}</id>
+   {% if post.author %}
+   {% assign author = site.data.members[post.author] %}
+   <author>
+     <name>{{ author.name }}</name>
+   </author>
+   {% endif %}
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
