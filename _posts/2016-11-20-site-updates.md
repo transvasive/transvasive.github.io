@@ -2,7 +2,7 @@
 layout: post
 title: Site Updates
 author: jabenninghoff
-comments: true
+comments: false
 ---
 Today I completed some long overdue maintenance for
 [transvasive.com](/) -- a number of links were broken due to a

@@ -2,7 +2,7 @@
 layout: post
 title: Freeware vs Payware&#58; pick the product that best meets your needs
 author: jabenninghoff
-comments: true
+comments: false
 ---
 Is Open Source software more secure or less secure than Closed Source
 software? Usually, when people ask or answer this question, they are
