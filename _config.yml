@@ -42,7 +42,7 @@ masthead_links:
   Archive:           '/archive/'
 
 # Disqus settings
-#disqus_url:          information-safety
+disqus_url:          transvasive
 
 # Options
 
