@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/transvasive/transvasive.github.io.svg?branch=master)](https://travis-ci.com/transvasive/transvasive.github.io)
 
-This is the public source repository for the Transvasive Security website: https://transvasive.github.io, and the future home of [transvasive.com](http://transvasive.com).
+This is the public source repository for the Transvasive Security website: https://transvasive.com.
 
 The journey so far:
 1. Originally built on [Joomla](https://www.joomla.org)
@@ -13,3 +13,4 @@ The journey so far:
 1. Rebuilt with [Jekyll](https://jekyllrb.com) and [Poole](http://getpoole.com), forked from [information-safety](https://github.com/information-safety/information-safety.github.io)
 1. Tested with [Travis CI](https://travis-ci.com)
 1. Deployed using [GitHub Pages](https://pages.github.com)
+1. Configured to use a custom domain with [Cloudflare](https://www.cloudflare.com)
