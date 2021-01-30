@@ -23,9 +23,9 @@ mentioned specific products in my talk, since they're representative of
 the solutions I like for the typical risks most computer users face --
 those are listed below.
 
--   Backups -- Mac: [Time Machine](http://support.apple.com/kb/VI29)
+-   Backups -- Mac: [Time Machine](https://web.archive.org/web/20150214011211/http://support.apple.com/kb/VI29)
 -   Backups -- Mac & Windows: [CrashPlan](http://www.crashplan.com/)
--   Updates -- Mac: [MacUpdate](http://www.macupdate.com/)
+-   Updates -- Mac: [MacUpdate](https://www.macupdate.com/)
 -   Updates -- Windows: [Secunia Personal Software Inspector](http://secunia.com/products/consumer/psi/)
 -   Anti-Virus -- Mac: [Sophos Anti-Virus](http://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx)
 -   Anti-Virus -- Winows: [Microsoft Security Essentials](http://windows.microsoft.com/mse)
