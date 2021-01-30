@@ -59,7 +59,7 @@ task :test => :build do
     :cache => {
       :timeframe => '1d'
     },
-    :http_status_ignore => ["403"],
+    :http_status_ignore => [403,503],
     :url_ignore => [
       "http://www.ustream.tv/recorded/18541162",
       "https://dev.issa.org/Library/Journals/2006/May/Parker%20-%20Replacing%20Risk-Based%20Security.pdf",
