@@ -63,7 +63,6 @@ task :test => :build do
     :url_ignore => [
       "http://www.ustream.tv/recorded/18541162",
       "https://dev.issa.org/Library/Journals/2006/May/Parker%20-%20Replacing%20Risk-Based%20Security.pdf",
-      "https://www.macupdate.com/",
       "https://www.societyinforisk.org/posts/2012/Mar/siracon-2012/"
     ]
   }
