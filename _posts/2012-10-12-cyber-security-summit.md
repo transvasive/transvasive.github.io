@@ -50,7 +50,7 @@ dark," referring to BYOD/mobile. I would recommend you check out his
 site, [Police-Led Intelligence](https://web.archive.org/web/20141027104456/http://policeledintelligence.com/).
 
 Over lunch a panel discussed the [National Strategy for Trusted
-Identities in Cyberspace](https://www.nist.gov/itl/nstic) (NSTIC),
+Identities in Cyberspace](https://web.archive.org/web/20161024002225/https://www.nist.gov/itl/nstic) (NSTIC),
 followed by a CISO panel on information sharing. The CISO panel was most
 interesting to me when I asked about sharing "security failures" --
 there was none, really. For me, this goes to the heart of the
