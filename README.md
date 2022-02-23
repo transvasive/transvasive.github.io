@@ -1,6 +1,6 @@
 # transvasive.github.io
 
-[![Build Status](https://travis-ci.com/transvasive/transvasive.github.io.svg?branch=master)](https://travis-ci.com/transvasive/transvasive.github.io)
+[![Build Status](https://app.travis-ci.com/transvasive/transvasive.github.io.svg?branch=master)](https://app.travis-ci.com/transvasive/transvasive.github.io)
 
 This is the public source repository for the Transvasive Security website: https://transvasive.com.
 
