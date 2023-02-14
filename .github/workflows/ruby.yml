@@ -6,9 +6,9 @@ name: ruby
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [main, master]
   pull_request:
-    branches: [ $default-branch ]
+    branches: [main, master]
 
 jobs:
   test:
