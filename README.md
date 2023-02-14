@@ -1,6 +1,7 @@
 # transvasive.github.io
 
-[![Build Status](https://app.travis-ci.com/transvasive/transvasive.github.io.svg?branch=master)](https://app.travis-ci.com/transvasive/transvasive.github.io)
+
+[![ruby](https://github.com/transvasive/transvasive.github.io/workflows/ruby/badge.svg)](https://github.com/transvasive/transvasive.github.io/actions)
 
 This is the public source repository for the Transvasive Security website: https://transvasive.com.
 
@@ -14,3 +15,4 @@ The journey so far:
 1. Tested with [Travis CI](https://travis-ci.com)
 1. Deployed using [GitHub Pages](https://pages.github.com)
 1. Configured to use a custom domain with [Cloudflare](https://www.cloudflare.com)
+1. Switched from Travis CI to [GitHub Actions](https://docs.github.com/en/actions)
