@@ -43,6 +43,7 @@ desc 'verify links'
 task :test => :build do
   options = {
     :check_external_hash => true,
+    :check_internal_hash => true,
     :check_favicon => true,
     :check_opengraph => true,
     :check_html => true,
@@ -57,10 +58,14 @@ task :test => :build do
       :report_script_embeds => true,
     },
     :cache => {
-      :timeframe => '1d'
+      :timeframe => {
+        :internal => '1d',
+        :external => '1d'
+      }
     },
-    :http_status_ignore => [403,503],
-    :url_ignore => [
+    :enforce_https => false,
+    :ignore_status_codes => [403,503],
+    :ignore_urls => [
       "http://www.ustream.tv/recorded/18541162",
       "https://dev.issa.org/Library/Journals/2006/May/Parker%20-%20Replacing%20Risk-Based%20Security.pdf",
       "https://www.societyinforisk.org/posts/2012/Mar/siracon-2012/"
