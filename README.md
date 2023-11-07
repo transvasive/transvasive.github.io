@@ -1,11 +1,11 @@
 # transvasive.github.io
 
-
 [![ruby](https://github.com/transvasive/transvasive.github.io/workflows/ruby/badge.svg)](https://github.com/transvasive/transvasive.github.io/actions)
 
-This is the public source repository for the Transvasive Security website: https://transvasive.com.
+This is the public source repository for the Transvasive Security website: <https://transvasive.com>.
 
 The journey so far:
+
 1. Originally built on [Joomla](https://www.joomla.org)
 1. Migrated to [WordPress](https://wordpress.org)
 1. Mirrored using [httrack](https://www.httrack.com)
