@@ -31,23 +31,23 @@ challenges the notion that password rotation improves security in a
 post](http://www.cerias.purdue.edu/site/blog/post/password-change-myths/).
 There are several ways passwords can be compromised today:
 
--   Phishing; which is just another way of saying that someone tricks
+- Phishing; which is just another way of saying that someone tricks
     you into providing them your password.
--   Sniffing; eavesdropping, either by monitoring passwords as they are
+- Sniffing; eavesdropping, either by monitoring passwords as they are
     sent over a network, (at the local coffee shop) or by installing
     software on a computer to monitor keystrokes (leveraging viruses or
     security flaws).
--   Stealing; finding the password somewhere, which could be written
+- Stealing; finding the password somewhere, which could be written
     down, stored in a word document, or even in (computer) memory.
--   Sharing; when someone voluntarily gives you their password.
--   Guessing; either by being clever and deducing someone's password
+- Sharing; when someone voluntarily gives you their password.
+- Guessing; either by being clever and deducing someone's password
     (maybe it's the name & birthday of their only child), or by
     systematically trying passwords until all possible combinations are
     exhausted. Guessing at random generally doesn't work very well,
     since most password systems are designed to limit successive
     failures to prevent this type of attack. My iPhone, and most
     Blackberries, will automatically erase after 10 failed attempts.
--   Password cracking; on well-designed systems, passwords are stored
+- Password cracking; on well-designed systems, passwords are stored
     *hashed*, and while you can't figure out a password from a hash, if
     you can get a copy of someone's hashed password, you can guess as
     many times as you want, using your own computer to calculate hashes

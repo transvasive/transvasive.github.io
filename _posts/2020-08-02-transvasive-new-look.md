@@ -7,6 +7,7 @@ comments: true
 Over the past few days, I have been working on an overhaul of [transvasive.com](/). I've started using [GitHub Pages](https://pages.github.com) for my safety-related blog, [information-safety.org](https://www.information-safety.org/), and have found that I prefer that workflow to the more traditional approach of using a CMS, like WordPress, so I decided to migrate transvasive.com to GitHub. Today, I completed that migration by adding a custom domain and redirecting traffic to GitHub Pages.
 
 From the [GitHub Repository](https://github.com/transvasive/transvasive.github.io), here is the journey of  transvasive.com so far:
+
 1. Originally built on [Joomla](https://www.joomla.org)
 1. Migrated to [WordPress](https://wordpress.org)
 1. Mirrored using [httrack](https://www.httrack.com)

@@ -29,7 +29,7 @@ choose a target time for how long it takes to calculate a single hash,
 and adjust the number of iterations accordingly. The beauty of this
 approach is that, failing a major breakthrough in mathematics, the
 number of iterations can be increased over time as computing power
-increases to keep the calculation time constant. Users' pasword hashes
+increases to keep the calculation time constant. Users' password hashes
 can be silently upgraded when the number of iterations increases, so
 that calc times stay constant for legacy hashes.
 
@@ -37,7 +37,7 @@ Practically speaking, this means figuring out how long to make your
 passwords becomes an exercise in comparing relative computing power of
 attacker and defender.
 
-**Analysis**
+## Analysis
 
 For my analysis, I assumed a password has time of 100 ms; this is a
 reasonable target, as a tenth of a second isn't going to have much of a
@@ -47,7 +47,7 @@ although they could apply additional horsepower to increase the cracking
 rate. Below are a couple of tables showing the number of days to
 brute-force a password at a given rate.
 
-**Lowercase Letters Only**
+## Lowercase Letters Only
 
 | P/Sec         | Length      |             |                 |             |                 |              |  
 |---------------|-------------|-------------|-----------------|-------------|-----------------|--------------|-----------------
@@ -64,7 +64,7 @@ brute-force a password at a given rate.
 
 *Number of days to brute-force crack a password of a given length.*
 
-**Uppercase, Lowercase, and Numbers**
+## Uppercase, Lowercase, and Numbers
 
 | P/Sec         | Length      |             |                 |             |                 |             |
 |---------------|-------------|-------------|-----------------|-------------|-----------------|-------------|-----------------
@@ -136,16 +136,16 @@ this to be done at the time the password is set -- even a relatively
 small dictionary, along with good guidance on how to select an
 acceptable password should provide reasonable protection.
 
-**Recommendations**
+## Recommendations
 
 So, to sum up:
 
--   Use scrypt, or a similar password hashing algorithm.
--   Set the number of iterations so that hashes take approximately 100
+- Use scrypt, or a similar password hashing algorithm.
+- Set the number of iterations so that hashes take approximately 100
     ms, and adjust this value over time as computing power increases.
--   Use the same password policy you have today (8 character complex
+- Use the same password policy you have today (8 character complex
     passwords).
--   Run dictionary checks against passwords as they are selected.
+- Run dictionary checks against passwords as they are selected.
 
 If you follow **all** this advice, your passwords will be able to
 withstand an offline attack long enough for you to discover the breach,

@@ -34,8 +34,8 @@ responsible for reviewing the latest vulnerabilities and patches, I can
 say that for most IT staff, vulnerability management can be broken down
 into 2 basic steps:
 
-1.  Wait for the monthly Microsoft patch release
-2.  Deploy the patches
+1. Wait for the monthly Microsoft patch release
+2. Deploy the patches
 
 CVSS doesn't even matter in the most basic case. Small companies without
 a dedicated IT staff don't need CVSS, since their vendors will tell
@@ -51,10 +51,10 @@ For those companies fortunate enough to have security staff dedicated
 to running a vulnerability management program, CVSS still doesn't help.
 The more advanced version of VM really breaks down to 4 steps:
 
-1.  Wait for the monthly Microsoft (or other vendor's) patch release
-2.  Determine how quickly the patches need to be deployed
-3.  Deploy the patches
-4.  Scan your systems to find systems that aren't patched
+1. Wait for the monthly Microsoft (or other vendor's) patch release
+2. Determine how quickly the patches need to be deployed
+3. Deploy the patches
+4. Scan your systems to find systems that aren't patched
 
 CVSS *might* be able to help with step 2, but in practice it doesn't
 matter. At most, there are really four different speeds to deploy
