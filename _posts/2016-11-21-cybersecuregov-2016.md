@@ -5,7 +5,7 @@ author: jabenninghoff
 comments: false
 ---
 Earlier this year, I spoke at [CyberSecureGov
-2016](http://cybersecuregov.isc2.org/), after my proposed talk based on
+2016](https://web.archive.org/web/20160602122649/http://cybersecuregov.isc2.org/events/-isc-cybersecuregov-2016/event-summary-16841e2f027f4ffda9e69c29e9fc88c6.aspx), after my proposed talk based on
 the two years I spent working on large government projects was accepted.
 Identity & Access Management has always been an interest of mine, ever
 since my days supporting a security administration team, and I learned
