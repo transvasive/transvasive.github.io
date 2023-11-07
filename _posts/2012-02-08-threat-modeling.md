@@ -19,7 +19,7 @@ slightly better than random chance.
 To that end, I believe that some of my recent work in Behavioral
 Security Modeling (BSM) may be part of the solution. Threat modeling
 needs to be deconstructed and integrated directly into the software
-development life cycle (SCDLC). Some of the benefits provided by threat
+development life cycle (SDLC). Some of the benefits provided by threat
 modeling in general, and
 [STRIDE](http://msdn.microsoft.com/en-us/magazine/cc163519.aspx)
 specifically include identifying missing requirements and potential
