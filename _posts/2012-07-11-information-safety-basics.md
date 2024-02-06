@@ -27,6 +27,6 @@ those are listed below.
 - Backups -- Mac & Windows: [CrashPlan](http://www.crashplan.com/)
 - Updates -- Mac: [MacUpdate](https://www.macupdate.com/)
 - Updates -- Windows: [Secunia Personal Software Inspector](http://secunia.com/products/consumer/psi/)
-- Anti-Virus -- Mac: [Sophos Anti-Virus](http://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx)
+- Anti-Virus -- Mac: [Sophos Anti-Virus](https://home.sophos.com/en-us/download-mac-security)
 - Anti-Virus -- Windows: [Microsoft Security Essentials](http://windows.microsoft.com/mse)
 - Passwords -- Mac & Windows: [1Password](https://agilebits.com/onepassword) or [Lastpass](https://lastpass.com/)
