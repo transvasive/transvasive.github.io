@@ -16,6 +16,8 @@
         "cybercrime",
         "cyberintelligence",
         "cyberweapons",
+        "Cyentia",
+        "DAST",
         "DBIR",
         "Glenny",
         "Herbie",
@@ -46,6 +48,7 @@
         "reposted",
         "Rudis",
         "Sarbanes",
+        "SAST",
         "SDLC",
         "SEAG",
         "Secunia",
@@ -60,6 +63,7 @@
         "threatpost",
         "transvasive",
         "Varpiola",
+        "Veracode",
         "Weatherford",
         "Yoran"
     ]
