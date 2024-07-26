@@ -15,4 +15,6 @@ gem 'ffi', '= 1.16.3'
 group :test do
   gem 'html-proofer'
   gem 'rake'
+  gem 'rubocop'
+  gem 'rubocop-rake'
 end
