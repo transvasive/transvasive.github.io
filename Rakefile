@@ -60,6 +60,8 @@ task test: :build do
     enforce_https: false,
     ignore_status_codes: [403, 503],
     ignore_urls: [
+      # URL not resolving
+      %r{https://secure360.org},
       # URLs require authentication
       'https://societyinforisk.org/SiRAcon-20#LR220',
       # Dead URLs
