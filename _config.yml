@@ -50,7 +50,7 @@ disqus_url:          transvasive
 #mobile-icons:        true
 
 # Replace this value and uncomment to enable Google Analytics tracking
-google_analytics:    UA-177097512-1
+#google_analytics:    UA-177097512-1
 
 # poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
 # Custom vars
