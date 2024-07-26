@@ -60,6 +60,9 @@ task test: :build do
     enforce_https: false,
     ignore_status_codes: [403, 503],
     ignore_urls: [
+      # URLs require authentication
+      'https://societyinforisk.org/SiRAcon-20#LR220',
+      # Dead URLs
       'https://vimeo.com/31654452',
       'http://www.ustream.tv/recorded/18541162',
       'https://dev.issa.org/Library/Journals/2006/May/Parker%20-%20Replacing%20Risk-Based%20Security.pdf',
