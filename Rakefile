@@ -10,7 +10,7 @@ rescue StandardError => e
   puts e
 end
 
-# bundle exec rake update does not work as expected
+# TODO: bundle exec rake update does not work as expected
 desc 'update gems'
 task :update do
   sh 'bundle update'
@@ -21,7 +21,8 @@ end
 
 desc 'build site'
 task :build do
-  sh 'JEKYLL_ENV="production" bundle exec jekyll build'
+  # using --unpublished or --future disables --drafts
+  sh 'JEKYLL_ENV="production" bundle exec jekyll build --strict_front_matter --unpublished --future'
 rescue StandardError => e
   puts e
 end
