@@ -4,6 +4,10 @@ title: Video from AppSec USA 2011 now available
 author: jabenninghoff
 comments: false
 ---
+*Update:* while the video is no longer available on Vimeo, two copies
+are available on YouTube, [here](https://www.youtube.com/watch?v=jLW617T45IA)
+and [here](https://www.youtube.com/watch?v=hPBBuPI5tOg).
+
 [OWASP](https://www.owasp.org/) has posted video from [my
 talk](http://2011.appsecusa.org/talks.html#bsm) at [AppSec USA
 2011](http://2011.appsecusa.org/). I haven't yet built up the nerve to

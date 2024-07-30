@@ -48,4 +48,5 @@ problems we faced while building out large SSO solutions.
 You can download a copy of the slides from the presentation
 [here](/assets/practical-iam-2016.pdf). A video of my
 talk at [OWASP MSP](https://www.owasp.org/index.php/Minneapolis_St_Paul)
-is available [here](https://vimeo.com/183118584).
+is available on [Vimeo](https://vimeo.com/183118584) and
+[YouTube](https://www.youtube.com/watch?v=XxBoXwItNKs).
