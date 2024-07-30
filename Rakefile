@@ -63,6 +63,8 @@ task test: :build do
     ignore_urls: [
       # URL not resolving
       %r{https://secure360.org},
+      # URLs time out
+      'http://psas.scripts.mit.edu/home/2016-stamp-workshop/',
       # URLs require authentication
       'https://societyinforisk.org/SiRAcon-20#LR220',
       # Dead URLs
