@@ -5,7 +5,7 @@ require 'html-proofer'
 
 desc 'remove all local files'
 task :distclean do
-  sh 'rm -rf `cat .gitignore`'
+  sh 'rm -rf "$(grep -v \'^#\' .gitignore)"'
 rescue StandardError => e
   puts e
 end
