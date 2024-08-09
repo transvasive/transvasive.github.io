@@ -3,22 +3,6 @@
 abort('Please run this using `bundle exec rake`') unless ENV['BUNDLE_BIN_PATH']
 require 'html-proofer'
 
-desc 'remove all local files'
-task :distclean do
-  sh 'rm -rf "$(grep -v \'^#\' .gitignore)"'
-rescue StandardError => e
-  puts e
-end
-
-# TODO: bundle exec rake update does not work as expected
-desc 'update gems'
-task :update do
-  sh 'bundle update'
-  sh 'bundle clean'
-rescue StandardError => e
-  puts e
-end
-
 desc 'build site'
 task :build do
   # using --unpublished or --future disables --drafts
