@@ -2,6 +2,14 @@
 
 abort('Please run this using `bundle exec rake`') unless ENV['BUNDLE_BIN_PATH']
 require 'html-proofer'
+require 'rubocop/rake_task'
+
+desc 'run rubocop'
+task :rubocop do
+  RuboCop::RakeTask.new
+rescue StandardError => e
+  puts e
+end
 
 desc 'build site'
 task :build do
@@ -66,4 +74,4 @@ task test: :build do
   end
 end
 
-task default: [:test]
+task default: %i[rubocop test]
