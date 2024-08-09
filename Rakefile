@@ -59,7 +59,7 @@ task test: :build do
       'http://psas.scripts.mit.edu/home/2016-stamp-workshop/',
       # URLs require authentication
       'https://societyinforisk.org/SiRAcon-20#LR220',
-      # Dead URLs
+      # Dead URLs not available on https://web.archive.org
       'https://vimeo.com/31654452',
       'http://www.ustream.tv/recorded/18541162',
       'https://dev.issa.org/Library/Journals/2006/May/Parker%20-%20Replacing%20Risk-Based%20Security.pdf',
