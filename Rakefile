@@ -54,7 +54,6 @@ task test: :build do
     ignore_status_codes: [403, 405, 503],
     ignore_urls: [
       # URL not resolving
-      %r{https://secure360.org},
       'https://www.secwest.net',
       # URLs time out
       'http://psas.scripts.mit.edu/home/2016-stamp-workshop/',
