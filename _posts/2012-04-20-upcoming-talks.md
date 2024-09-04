@@ -12,9 +12,9 @@ September 2011 at [OWASP AppSec USA]({% post_url 2011-11-17-appsec-usa-2011-vide
 Minneapolis. Karl has a wealth of experience in software development and
 architecture, and we will be publishing the paper and [giving a
 presentation](https://web.archive.org/web/20120608025300/http://secure360.org/attendees/workshop-descriptions/#BSM)
-at [Secure360](https://secure360.org/) in St Paul on May 8. If you are
+at [Secure360](https://web.archive.org/web/20120315014144/http://secure360.org/) in St Paul on May 8. If you are
 going, make sure to register for the [Secure360 Run/Walk for
-ECHO](https://secure360.org/secure360-runwalk-for-echo-2/)!
+ECHO](https://web.archive.org/web/20130208142721/http://secure360.org/secure360-runwalk-for-echo-2/)!
 
 Second, I'll also be speaking the day before (on May 7) at
 [SIRACon](https://www.societyinforisk.org/posts/2012/Mar/siracon-2012/),

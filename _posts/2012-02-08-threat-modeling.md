@@ -32,5 +32,5 @@ develop and refine the ideas from my original [Behavioral Security Modeling]({% 
 I've enlisted a collaborator with strong application development
 experience. We've already discussed threat modeling, and if it's not
 directly addressed in our white paper or the presentation, (we'll be
-speaking at [Secure 360](https://secure360.org/)!) it
+speaking at [Secure 360](https://web.archive.org/web/20120219050943/http://secure360.org/)!) it
 certainly will be in the framework we're building behind the scenes.
