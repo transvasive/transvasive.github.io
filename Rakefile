@@ -56,7 +56,6 @@ task test: :build do
       # URL not resolving
       'https://www.secwest.net',
       # URLs time out
-      'http://psas.scripts.mit.edu/home/2016-stamp-workshop/',
       # URLs require authentication
       'https://societyinforisk.org/SiRAcon-20#LR220',
       # Dead URLs not available on https://web.archive.org
