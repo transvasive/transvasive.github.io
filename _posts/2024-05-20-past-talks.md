@@ -24,4 +24,4 @@ In May 2013, I gave an updated [version](/assets/btm-s360-20130514.pdf) of the B
 
 Finally, I spoke at Secure360 2017 on "Practical Identity Access Management", originally given at [CyberSecureGov]({% post_url 2016-11-21-cybersecuregov-2016 %}). I was later invited to present the talk again at the first (and last) Secure360 conference in Milwaukee, WI in 2018. ([slides](/assets/practical-iam-benninghoff-secure360-2017.pdf))
 
-I'll be posting some additional talks with new materials separately.
+Newer talks have been posted on <https://information-safety.org>.
