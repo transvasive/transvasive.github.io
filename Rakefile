@@ -54,10 +54,8 @@ task test: :build do
     ignore_status_codes: [403, 405, 503],
     ignore_urls: [
       # URL not resolving
-      'https://www.secwest.net',
       # URLs time out
       # URLs require authentication
-      'https://societyinforisk.org/SiRAcon-20#LR220',
       # Dead URLs not available on https://web.archive.org
       'https://vimeo.com/31654452',
       'http://www.ustream.tv/recorded/18541162',
