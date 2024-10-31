@@ -5,6 +5,10 @@ url:                 https://transvasive.github.io
 paginate:            3
 baseurl:             ""
 permalink:           pretty
+notice: >
+  I started Transvasive Security in 2008 and offered consulting services until taking a full time job in 2012.
+  This site is an archive of my work prior to 2015; I currently blog at [information-safety.org](https://www.information-safety.org)
+  and provide security consulting through my new company, [Security Differently](https://www.security-differently.com).
 
 # Gems
 plugins:
