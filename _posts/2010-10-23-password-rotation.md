@@ -158,7 +158,7 @@ and phishing, but it would make such attacks more difficult, and would
 defeat most current methods. The system would also lower costs,
 primarily by reducing forgotten password calls to the help desk. Not
 surprisingly, someone else already thought of this idea; the
-[patent](http://www.freepatentsonline.com/6895514.html) was filed by
+[patent](https://www.freepatentsonline.com/6895514.html) was filed by
 Lucent in 1999.
 
 Unfortunately, Lucent's patent has never been implemented. For a new
