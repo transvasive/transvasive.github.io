@@ -68,7 +68,7 @@ them securely, all protected by a single *master password*, and makes it
 easy to enter your password when logging on to a website (just click a
 button!)
 
-Right now, I use [1Password](https://agilebits.com/onepassword), but
+Right now, I use [1Password](https://web.archive.org/web/20120714093334/https://agilebits.com/onepassword), but
 also recommend [LastPass](https://lastpass.com/). I use a very long pass
 phrase for my master password, which is a phrase or complete sentence
 that should be easy to remember, but hard to guess. Five or more words

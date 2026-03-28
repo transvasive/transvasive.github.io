@@ -29,4 +29,4 @@ those are listed below.
 - Updates -- Windows: [Secunia Personal Software Inspector](http://secunia.com/products/consumer/psi/)
 - Anti-Virus -- Mac: [Sophos Anti-Virus](https://home.sophos.com/en-us/download-mac-security)
 - Anti-Virus -- Windows: [Microsoft Security Essentials](http://windows.microsoft.com/mse)
-- Passwords -- Mac & Windows: [1Password](https://agilebits.com/onepassword) or [Lastpass](https://lastpass.com/)
+- Passwords -- Mac & Windows: [1Password](https://web.archive.org/web/20120714093334/https://agilebits.com/onepassword) or [Lastpass](https://lastpass.com/)
