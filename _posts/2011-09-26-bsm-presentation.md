@@ -5,8 +5,8 @@ author: jabenninghoff
 comments: false
 ---
 Here are the slides from my
-[talk](http://2011.appsecusa.org/talks.html#bsm) at [AppSec USA
-2011](http://2011.appsecusa.org/).
+[talk](https://web.archive.org/web/20251127175303/https://2011.appsecusa.org/talks.html#bsm) at [AppSec USA
+2011](https://web.archive.org/web/20251127211544/https://2011.appsecusa.org/).
 
 [Behavioral Security Modeling: Eliminating Vulnerabilities by Building Predictable Systems](/assets/bsm-owasp-20110922.pdf)
 

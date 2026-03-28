@@ -9,8 +9,8 @@ are available on YouTube, [here](https://www.youtube.com/watch?v=jLW617T45IA)
 and [here](https://www.youtube.com/watch?v=hPBBuPI5tOg).
 
 [OWASP](https://www.owasp.org/) has posted video from [my
-talk](http://2011.appsecusa.org/talks.html#bsm) at [AppSec USA
-2011](http://2011.appsecusa.org/). I haven't yet built up the nerve to
+talk](https://web.archive.org/web/20251127175303/https://2011.appsecusa.org/talks.html#bsm) at [AppSec USA
+2011](https://web.archive.org/web/20251127211544/https://2011.appsecusa.org/). I haven't yet built up the nerve to
 watch it yet (who likes to watch themselves?), so I can't say how good
 it is, but hopefully it is interesting and informative. *Update:* it
 seems the video is just slides & audio -- which is probably a good

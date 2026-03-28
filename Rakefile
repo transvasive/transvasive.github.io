@@ -60,6 +60,7 @@ task test: :build do
     ignore_urls: [
       # URL not resolving
       # URLs time out
+      'https://www.cybersecuritysummit.org',
       # URLs require authentication
       # Dead URLs not available on https://web.archive.org
       'https://vimeo.com/31654452',
