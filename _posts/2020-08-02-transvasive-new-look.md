@@ -14,7 +14,7 @@ From the [GitHub Repository](https://github.com/transvasive/transvasive.github.i
 1. Converted from html to markdown with [pandoc](https://pandoc.org)
 1. Cleaned up by hand with [Atom](https://atom.io)
 1. Rebuilt with [Jekyll](https://jekyllrb.com) and [Poole](http://getpoole.com), forked from [information-safety](https://github.com/information-safety/information-safety.github.io)
-1. Tested with [Travis CI](https://travis-ci.com)
+1. Tested with [Travis CI](https://www.travis-ci.com)
 1. Deployed using [GitHub Pages](https://pages.github.com)
 1. Configured to use a custom domain with [Cloudflare](https://www.cloudflare.com)
 

@@ -56,9 +56,10 @@ task test: :build do
       }
     },
     enforce_https: false,
-    ignore_status_codes: [403, 405, 503],
+    ignore_status_codes: [403, 405, 415, 503],
     ignore_urls: [
       # URL not resolving
+      'http://lastpass.com/support_screencasts.php?feature=yubikey1',
       # URLs time out
       'https://www.cybersecuritysummit.org',
       # URLs require authentication
