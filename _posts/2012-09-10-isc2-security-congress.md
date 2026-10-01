@@ -26,7 +26,7 @@ template](/assets/sample-threat-profiles.zip)
 
 If you happen to live in the Minneapolis / St Paul area, I'll be giving
 the talk again at the local [OWASP MSP
-chapter](https://www.owasp.org/index.php/Minneapolis_St_Paul) a week
+chapter](https://owasp.org/chapters/msp) a week
 from today, on September 17. (It's the same talk, we just had a problem
 getting the title right) The OWASP MSP group is fun, and I'm hoping I'll
 get some hecklers.
